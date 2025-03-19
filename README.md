@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rudraa-Prasad
 - 👀 I’m interested in AI ML.
-- 🌱 I’m currently learning LLM.
-- 💞️ I’m looking to collaborate on LLM projects
+- 🌱 I’m currently working on LLM, Agents.
+- 💞️ I’m looking to collaborate on LLM projects.
 - 📫 How to reach me pdrudra.121@gmail.com
 
 
